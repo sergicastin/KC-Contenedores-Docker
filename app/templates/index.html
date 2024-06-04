@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario de Prácticas</title>
+</head>
+<body>
+    <h1>Formulario entrega prácticas</h1>
+    <form action="/agregar" method="post">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required>
+        <br>
+        <label for="correo">Correo:</label>
+        <input type="text" id="correo" name="correo" required>
+        <br>
+        <label for="categoria">Categoría:</label>
+        <select id="categoria" name="categoria">
+            <option value="SysAdmin">SysAdmin: Administración de redes y sistemas</option>
+            <option value="MigracionGCP">Migración a la nube: GCP</option>
+            <option value="ContenedoresDocker" selected>Contenedores: más que VMs DOCKER</option>
+            <option value="ContenedoresKubernetes">Contenedores: más que VMs - KUBERNETES</option>
+            <option value="MigracionAWS">Migración a la nube: AWS</option>
+            <option value="CicloDesarrollo">Ciclo de vida de un desarrollo: CI/CD</option>
+            <option value="LiberandoProductos">Liberando productos</option>
+        </select>
+        <br>
+        <label for="link">Link de la práctica:</label>
+        <input type="text" id="link" name="link" required>
+        <br>
+        <button type="submit">Agregar Práctica</button>
+    </form>
+
+    <h2>Prácticas Registradas</h2>
+    {% if practicas %}
+        <table border="1">
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Nombre</th>
+                    <th>Correo</th>
+                    <th>Categoría</th>
+                    <th>Link</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for practica in practicas %}
+                    <tr>
+                        <td>{{ practica.id }}</td>
+                        <td>{{ practica.nombre }}</td>
+                        <td>{{ practica.correo }}</td>
+                        <td>{{ practica.categoria }}</td>
+                        <td>{{ practica.link }}</td>
+                        <td>
+                            <form action="/eliminar/{{ practica.id }}" method="post">
+                                <button type="submit">Eliminar</button>
+                            </form>
+                        </td>
+                    </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    {% endif %}
+</body>
+</html>

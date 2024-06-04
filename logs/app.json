@@ -1,0 +1,1318 @@
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:22:28.413273"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:22:28.423314"}
+{"message": " * Running on http://172.19.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:22:28.424164"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:22:28.427653"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:22:33.590318"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:22:33.596347"}
+{"message": " * Debugger PIN: 496-040-044", "time": "2024-02-09T17:22:33.597657"}
+{"message": "172.19.0.1 - - [09/Feb/2024 17:22:37] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:22:37.444685"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T17:22:41.212764"}
+{"message": "172.19.0.1 - - [09/Feb/2024 17:22:41] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:22:41.214121"}
+{"message": "172.19.0.1 - - [09/Feb/2024 17:22:41] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:22:41.224055"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T17:22:43.177364"}
+{"message": "172.19.0.1 - - [09/Feb/2024 17:22:43] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:22:43.179168"}
+{"message": "172.19.0.1 - - [09/Feb/2024 17:22:43] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:22:43.190490"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:31:19.613837"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:31:19.620385"}
+{"message": " * Running on http://172.20.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:31:19.620829"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:31:19.623371"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:31:24.805270"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:31:24.809305"}
+{"message": " * Debugger PIN: 125-552-527", "time": "2024-02-09T17:31:24.809940"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:30] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:31:30.316758"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:30] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:31:30.916433"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'SysAdmin', 'link': 'asssssssdas'}", "time": "2024-02-09T17:31:35.205987"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:35] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:31:35.206998"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:35] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:31:35.216822"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T17:31:36.221367"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:36] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:31:36.222240"}
+{"message": "172.20.0.1 - - [09/Feb/2024 17:31:36] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:31:36.231922"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:35:11.085497"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:35:11.091984"}
+{"message": " * Running on http://172.21.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:35:11.092436"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:35:11.094919"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:35:16.263000"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:35:16.267078"}
+{"message": " * Debugger PIN: 124-391-373", "time": "2024-02-09T17:35:16.267746"}
+{"message": "172.21.0.1 - - [09/Feb/2024 17:35:26] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:35:26.332736"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T17:35:31.372029"}
+{"message": "172.21.0.1 - - [09/Feb/2024 17:35:31] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:35:31.372874"}
+{"message": "172.21.0.1 - - [09/Feb/2024 17:35:31] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:35:31.383183"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T17:35:32.544832"}
+{"message": "172.21.0.1 - - [09/Feb/2024 17:35:32] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:35:32.545785"}
+{"message": "172.21.0.1 - - [09/Feb/2024 17:35:32] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:35:32.557064"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:37:02.596725"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:37:02.601935"}
+{"message": " * Running on http://172.21.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:37:02.602406"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:37:02.604847"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:37:07.742930"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:37:07.747401"}
+{"message": " * Debugger PIN: 124-391-373", "time": "2024-02-09T17:37:07.748063"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:39:41.456786"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:39:41.463763"}
+{"message": " * Running on http://172.22.0.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:39:41.464195"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:39:41.467157"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:39:46.644603"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:39:46.648650"}
+{"message": " * Debugger PIN: 644-509-571", "time": "2024-02-09T17:39:46.649320"}
+{"message": "172.22.0.1 - - [09/Feb/2024 17:40:02] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:40:02.825555"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'otra', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T17:40:06.787753"}
+{"message": "172.22.0.1 - - [09/Feb/2024 17:40:06] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:40:06.788670"}
+{"message": "172.22.0.1 - - [09/Feb/2024 17:40:06] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:40:06.799399"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:43:22.653166"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:43:22.659946"}
+{"message": " * Running on http://172.23.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:43:22.660418"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:43:22.663057"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:43:27.827662"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:43:27.832290"}
+{"message": " * Debugger PIN: 799-787-944", "time": "2024-02-09T17:43:27.833031"}
+{"message": "172.23.0.1 - - [09/Feb/2024 17:43:27] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:43:27.857316"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T17:43:32.888742"}
+{"message": "172.23.0.1 - - [09/Feb/2024 17:43:32] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:43:32.889764"}
+{"message": "172.23.0.1 - - [09/Feb/2024 17:43:32] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:43:32.899244"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T17:43:33.902481"}
+{"message": "172.23.0.1 - - [09/Feb/2024 17:43:33] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:43:33.903367"}
+{"message": "172.23.0.1 - - [09/Feb/2024 17:43:33] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:43:33.916125"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T17:51:23.695358"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:51:23.706062"}
+{"message": " * Running on http://172.24.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:51:23.706519"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:51:23.709908"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T17:51:28.922813"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:51:28.927784"}
+{"message": " * Debugger PIN: 329-913-220", "time": "2024-02-09T17:51:28.928892"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:42] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:51:42.332564"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:43] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:51:43.010349"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'otra', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asdsa'}", "time": "2024-02-09T17:51:47.772029"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:47] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:51:47.774283"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:47] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:51:47.784884"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T17:51:48.838528"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:48] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:51:48.839438"}
+{"message": "172.24.0.1 - - [09/Feb/2024 17:51:48] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:51:48.849848"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:53:21.953509"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T17:53:21.960422"}
+{"message": " * Running on http://172.25.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T17:53:21.960876"}
+{"message": " * Restarting with stat", "time": "2024-02-09T17:53:21.963584"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:53:27.099367"}
+{"message": " * Debugger is active!", "time": "2024-02-09T17:53:27.103434"}
+{"message": " * Debugger PIN: 552-379-260", "time": "2024-02-09T17:53:27.104301"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:54:13.038634"}
+{"message": "172.25.0.1 - - [09/Feb/2024 17:54:13] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:54:13.042876"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:54:13.701722"}
+{"message": "172.25.0.1 - - [09/Feb/2024 17:54:13] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:54:13.702440"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:54:17.112458"}
+{"message": "172.25.0.1 - - [09/Feb/2024 17:54:17] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T17:54:17.113269"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T17:54:17.119258"}
+{"message": "172.25.0.1 - - [09/Feb/2024 17:54:17] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T17:54:17.119967"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T18:22:30.302267"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:22:30.308805"}
+{"message": " * Running on http://172.26.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:22:30.309346"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:22:30.311889"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T18:22:35.481694"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:22:35.485779"}
+{"message": " * Debugger PIN: 100-559-726", "time": "2024-02-09T18:22:35.486443"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:23:32] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:23:32.984846"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T18:23:36.667653"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:23:36] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:23:36.668549"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:23:36] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:23:36.678827"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T18:23:37.786200"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:23:37] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:23:37.787184"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:23:37] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:23:37.796705"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:00.877925"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:24:00.884220"}
+{"message": " * Running on http://172.26.0.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:24:00.884650"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:24:00.887185"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:06.027229"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:24:06.032183"}
+{"message": " * Debugger PIN: 336-098-953", "time": "2024-02-09T18:24:06.032887"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:06.045806"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:06] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:06.049900"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:18.524542"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:18] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:18.525241"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:20.040083"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:20] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:20.040987"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:20.766719"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:20] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:20.767584"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:21.256901"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:21] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:21.257758"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:21.885645"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:21] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:21.886509"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:25.881735"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:25] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:24:25.882865"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'sergicastin'@'172.26.0.2' (using password: YES)\"}", "time": "2024-02-09T18:24:25.891634"}
+{"message": "172.26.0.1 - - [09/Feb/2024 18:24:25] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:24:25.892367"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T18:25:49.780133"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:25:49.786665"}
+{"message": " * Running on http://172.27.0.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:25:49.787146"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:25:49.789517"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T18:25:54.945059"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:25:54.949347"}
+{"message": " * Debugger PIN: 550-194-765", "time": "2024-02-09T18:25:54.950087"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:26:04] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:26:04.661474"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asdsa'}", "time": "2024-02-09T18:26:09.715896"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:26:09] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:26:09.716781"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:26:09] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:26:09.726749"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T18:26:11.109133"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:26:11] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:26:11.110095"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:26:11] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:26:11.119274"}
+{"message": "{'message': \"Error al crear la tabla: 1049 (42000): Unknown database 'nombredb'\"}", "time": "2024-02-09T18:27:08.184102"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:27:08.190846"}
+{"message": " * Running on http://172.27.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:27:08.191489"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:27:08.194074"}
+{"message": "{'message': \"Error al crear la tabla: 1049 (42000): Unknown database 'nombredb'\"}", "time": "2024-02-09T18:27:13.320859"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:27:13.329973"}
+{"message": " * Debugger PIN: 117-926-423", "time": "2024-02-09T18:27:13.331046"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1049 (42000): Unknown database 'nombredb'\"}", "time": "2024-02-09T18:27:22.899132"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:27:22] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:27:22.903590"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1049 (42000): Unknown database 'nombredb'\"}", "time": "2024-02-09T18:27:26.720897"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:27:26] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:27:26.721645"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1049 (42000): Unknown database 'nombredb'\"}", "time": "2024-02-09T18:27:26.730403"}
+{"message": "172.27.0.1 - - [09/Feb/2024 18:27:26] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:27:26.731294"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T18:30:16.976416"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:30:16.982760"}
+{"message": " * Running on http://172.28.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:30:16.983173"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:30:16.985496"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T18:30:22.145987"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:30:22.150010"}
+{"message": " * Debugger PIN: 745-086-454", "time": "2024-02-09T18:30:22.150766"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:33:29.167897"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:33:29.175935"}
+{"message": " * Running on http://172.29.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:33:29.176422"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:33:29.179205"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:33:34.321494"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:33:34.325229"}
+{"message": " * Debugger PIN: 875-149-314", "time": "2024-02-09T18:33:34.326001"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:33:48.019517"}
+{"message": "172.29.0.1 - - [09/Feb/2024 18:33:48] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:33:48.023570"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:33:52.024654"}
+{"message": "172.29.0.1 - - [09/Feb/2024 18:33:52] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:33:52.025417"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:33:52.031105"}
+{"message": "172.29.0.1 - - [09/Feb/2024 18:33:52] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:33:52.031803"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T18:37:46.834101"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:37:46.840191"}
+{"message": " * Running on http://172.30.0.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:37:46.840646"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:37:46.843070"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T18:37:52.002040"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:37:52.006432"}
+{"message": " * Debugger PIN: 882-813-958", "time": "2024-02-09T18:37:52.007252"}
+{"message": "172.30.0.1 - - [09/Feb/2024 18:37:52] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:37:52.202604"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T18:37:56.419099"}
+{"message": "172.30.0.1 - - [09/Feb/2024 18:37:56] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:37:56.420136"}
+{"message": "172.30.0.1 - - [09/Feb/2024 18:37:56] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:37:56.430280"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T18:37:57.169050"}
+{"message": "172.30.0.1 - - [09/Feb/2024 18:37:57] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:37:57.169974"}
+{"message": "172.30.0.1 - - [09/Feb/2024 18:37:57] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:37:57.180099"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:40:10.188283"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:40:10.195723"}
+{"message": " * Running on http://172.31.0.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:40:10.196262"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:40:10.198972"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:40:15.334316"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:40:15.338111"}
+{"message": " * Debugger PIN: 663-461-039", "time": "2024-02-09T18:40:15.338817"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:40:22.195659"}
+{"message": "172.31.0.1 - - [09/Feb/2024 18:40:22] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:40:22.199642"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:40:26.334249"}
+{"message": "172.31.0.1 - - [09/Feb/2024 18:40:26] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T18:40:26.334998"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 2003 (HY000): Can't connect to MySQL server on 'db:4200' (111)\"}", "time": "2024-02-09T18:40:26.340402"}
+{"message": "172.31.0.1 - - [09/Feb/2024 18:40:26] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T18:40:26.341150"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:56:54.114916"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T18:56:54.121816"}
+{"message": " * Running on http://192.168.0.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T18:56:54.122215"}
+{"message": " * Restarting with stat", "time": "2024-02-09T18:56:54.124784"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:56:59.269274"}
+{"message": " * Debugger is active!", "time": "2024-02-09T18:56:59.273169"}
+{"message": " * Debugger PIN: 941-188-695", "time": "2024-02-09T18:56:59.273966"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.978914"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.979832"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.980521"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.981132"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.981803"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.982375"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.983042"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.983628"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.984404"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.985057"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.985577"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.986162"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.986716"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.987265"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.987803"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.988339"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.988910"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.989495"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.990075"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.990641"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.991205"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.991776"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.992358"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.992974"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.993549"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.994138"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.994745"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.995361"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.995898"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.996452"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.997037"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.997597"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.998278"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.998845"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:43.999408"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.000048"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.000590"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.001230"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.001823"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.002461"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.003026"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.003560"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.004281"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.004889"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.005474"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.006007"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.006537"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.007183"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.007783"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.008364"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.008999"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.009530"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.010018"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.010610"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.011192"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.011744"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.012408"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.012988"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.013617"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.014205"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.014849"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.015558"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.016105"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.017283"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.017914"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.018594"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.019132"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.019747"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.020343"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.020973"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.021620"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.022187"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.022807"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.023365"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.023995"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.025226"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.025861"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.026429"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.026980"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.027600"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.028199"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.028820"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.029398"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.030015"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.030647"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.031230"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.031864"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.032433"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.032991"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.033498"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.034061"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.034624"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.035198"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.035781"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.036343"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.036937"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.037528"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.038179"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.038809"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.039379"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.040019"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.040630"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.041229"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.041822"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.042417"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.043015"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.043591"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.044193"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.044759"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.045356"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.046014"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.046581"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.047257"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.047850"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.048434"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.049070"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.049633"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.050197"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.050745"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.051318"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.051851"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.052518"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.053142"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.053718"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.054318"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.055026"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.055562"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.056146"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.056739"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.057361"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.058069"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.058728"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.059322"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.059853"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.060370"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.060993"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.061563"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.062083"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.062612"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.063233"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.063913"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.064537"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.065112"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.065655"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.066214"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.066827"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.067405"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.068003"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.068795"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.069435"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.070119"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.070728"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.071349"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.071972"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.072576"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.073150"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.073798"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.074354"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.074968"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.075505"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.076057"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.076774"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.077318"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.077952"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.078508"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.079050"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.079696"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.080349"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.080999"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.081549"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.082139"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.082714"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.083405"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.083957"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.084514"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.085214"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.085752"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.086345"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.086910"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.087580"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.088167"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.088760"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.089303"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.089991"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.090635"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.091228"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.091771"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.092391"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.092965"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.093589"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.094180"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.094750"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.095385"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.095965"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.096600"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.097235"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.097853"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.098460"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.099088"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.099704"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.100394"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.100998"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.101602"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.102366"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.103038"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.103605"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.104229"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.104988"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.105532"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.106279"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.106855"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.107398"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.108064"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.108660"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.109258"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.110066"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.110710"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.111418"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.112056"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.112674"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.113263"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.113890"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.114460"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.115038"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.115631"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.116250"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.116961"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.117527"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.118081"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.118610"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.119124"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.119722"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.120373"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.120979"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.121626"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.122350"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.122990"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.123603"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.124173"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.124731"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.125274"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.126255"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.127584"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.128354"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.128926"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.129513"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.130086"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.130788"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.131895"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.132580"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.133303"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.133906"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.134494"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.135254"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.135965"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.136532"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.137142"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.137867"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.138554"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.139225"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.139816"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.140390"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.141005"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.141570"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.142171"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.142753"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.143516"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.144141"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.144766"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.145421"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.146036"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.146599"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.147155"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.147748"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.148376"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.149059"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.149675"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.150278"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.150876"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.151531"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.152102"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.152820"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.153423"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.153994"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.154633"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.155293"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.155926"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.156504"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.157230"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.157905"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.158537"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.159170"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.159759"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.160336"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.160964"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.161539"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.162107"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.162681"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.163277"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.163943"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.164692"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.165277"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.165894"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.166530"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.167168"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.167726"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.168315"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.168925"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.169539"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.170102"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.170731"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.171296"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.171876"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.172466"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.173120"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.173753"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.174283"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.174893"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.175857"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.177647"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.178509"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.179240"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.179946"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.180650"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.181357"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.182083"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.182789"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.183521"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.184159"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.184789"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.185508"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.186144"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.186750"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.187390"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.188165"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.188939"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.189563"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.190292"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.190988"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.191732"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.192368"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.193113"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.193831"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.194543"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.195222"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.195855"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.196491"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.197197"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.197917"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.198763"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.199530"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.200238"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.200961"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.201630"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.202336"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.202978"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.203607"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.204356"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.205033"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.205797"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.206414"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.207043"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.207644"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.208368"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.209004"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.209573"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.210192"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.210841"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.211525"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.212146"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.212871"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.213548"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.214143"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.214746"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.215409"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.216467"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.217065"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.217678"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.218388"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.219066"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.219797"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.220416"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.221018"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.221814"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.222455"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.223050"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.223622"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.224188"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.224798"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.225398"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.226032"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.226608"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.227287"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.227851"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.228520"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.229174"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.229833"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.230483"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.231073"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.231744"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.232440"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.233089"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.233739"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.234341"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.234969"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.235529"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.236104"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.236658"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.237202"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.237831"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.238396"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.239133"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.239748"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.240315"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.240872"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.241473"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.242142"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.242783"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.243371"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.243957"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.244567"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.245221"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.245849"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.246423"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.247027"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.247648"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.248399"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.249090"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.249749"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.250443"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.251059"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.251673"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.252246"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.252920"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.253591"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.254208"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.254845"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.255469"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.256095"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.256658"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.257225"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.257828"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.258418"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.259025"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.259676"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.260303"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.260990"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.261623"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.262253"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.262855"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.263483"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.264089"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.264664"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.265316"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.265975"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.266709"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.267339"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.268028"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.268647"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.269254"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.269859"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.270428"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.271040"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.271615"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.272202"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.272822"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.273379"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.273933"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.274624"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.275220"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.275979"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.276578"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.277171"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.277912"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.278573"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.279341"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.279933"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.280528"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.281157"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.281830"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.282496"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.283108"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.283712"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.284313"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.284896"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.285468"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.286117"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.286761"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.287448"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.288080"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.288641"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.289290"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.289844"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.290496"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.291107"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.291764"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.292443"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.293048"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.293703"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.294326"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.295045"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.295659"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.296255"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.297024"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.297621"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.298367"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.299030"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.299616"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.300211"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.300919"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.301532"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.302150"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.302814"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.303540"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.304222"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.304899"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.305517"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.306136"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.306722"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.307410"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.308083"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.308693"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.309372"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.310017"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.310633"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.311447"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.312041"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.312638"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.313200"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.313869"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.314531"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.315140"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.315746"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.316465"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.317202"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.317849"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.318457"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.319318"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.319971"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.320674"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.321380"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.322008"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.322823"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.323517"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.324136"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.324797"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.325447"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.326079"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.326694"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.327302"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.328160"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.328796"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.329399"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.329976"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.330574"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.331154"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.331747"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.332354"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.332963"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.333593"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.334280"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.334891"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.335466"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.336244"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.336888"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.337555"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.338172"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.338949"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.339613"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.340237"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.340829"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.341521"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.342268"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.342842"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.343465"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.344148"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.344823"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.345397"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.346086"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.346710"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.347404"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.348034"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.348730"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.349342"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.349962"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.350534"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.351124"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.351709"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.352327"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.352907"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.353568"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.354136"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.354881"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.355626"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.356256"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.356975"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.357513"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.358208"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.358865"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.359503"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.360115"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.360714"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.361360"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.361949"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.362537"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.363219"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.363961"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.364559"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.365175"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.365832"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.366490"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.367158"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.367761"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.368404"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.369011"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.369640"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.370247"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.370965"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.371706"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.372376"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.372992"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.373627"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.374223"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.374843"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.375460"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.376037"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.376656"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.377308"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.377893"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.378493"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.379120"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.379719"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.380399"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.381006"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.381584"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.382220"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.382855"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.383576"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.384274"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.385073"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.385759"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.387368"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.388642"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.389519"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.390194"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.390830"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.391564"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.392315"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.393100"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.393847"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.394601"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.395432"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.396860"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.397784"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.399590"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.400450"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.401214"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.402006"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.402742"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.403586"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.404334"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.405028"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.405689"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.406382"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.407086"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.407791"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.408525"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.409255"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.409986"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.410725"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.411351"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.411994"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.412741"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.413399"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.414027"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.415165"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.415833"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.416506"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.417141"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.417783"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.418476"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.419121"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.419677"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.420225"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.420817"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.421572"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.422264"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.422876"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.423498"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.424105"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.424758"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.425442"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.426013"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.426640"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.427247"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.427907"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.428632"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.429427"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.430086"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.430787"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.431569"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.432292"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.432894"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.433637"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.434337"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.435143"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.435813"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.436429"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.437088"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.437679"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.438470"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.439198"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.439874"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.440529"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.441194"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.441766"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.442403"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.443035"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.443768"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.444509"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.445124"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.445736"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.446465"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.447142"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.447747"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.448521"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.449208"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.449872"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.450525"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.451281"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.451966"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.452653"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.453249"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.453904"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.454509"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.455207"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.455853"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.456415"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.457162"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.457810"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.458533"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.459278"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.459929"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.460646"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.461253"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.461883"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.462538"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.463181"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.463854"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.464494"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.465190"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.465944"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.466609"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.467218"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.467944"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.468612"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.469258"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.470006"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.470632"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.471380"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.472026"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.472668"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.473290"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.474047"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.474662"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.475272"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.475854"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.476605"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.477336"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.477995"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.478719"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.479478"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.480184"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.480886"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.481591"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.482235"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.482945"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.483618"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.484418"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.485096"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.485866"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.486552"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.487152"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.487791"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.488377"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.488939"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.489518"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.490199"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.490887"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.491524"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.492157"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.492878"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.493596"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.494242"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.494879"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.495534"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.496169"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.496823"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.497541"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.498321"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.499139"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.499830"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.500577"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.501448"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.502166"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.502762"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.503384"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.503990"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.504595"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.505303"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.505919"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.506713"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.507382"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.507996"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.508664"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.509298"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.509928"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.510561"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.512031"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.512782"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.513515"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.514188"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.514906"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.515585"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.516289"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.517038"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.517764"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.518483"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.519119"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.519775"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.520475"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.521073"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.521809"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.522485"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.523128"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.523740"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.524352"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.524967"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.525667"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.526302"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.526959"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.527539"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.528155"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.528801"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.529593"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.530251"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.530938"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.531622"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.532245"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.532865"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.533516"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.534091"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.534695"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.535307"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.536005"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.536659"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.537362"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.538148"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.538797"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.539388"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.540005"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.540642"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.541367"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.542059"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.542733"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.543342"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.543975"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.544641"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.545284"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.545951"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.546595"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.547297"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.548029"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.548705"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.549375"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.550041"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.550712"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.551342"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.552005"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.552653"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.553319"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.553966"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.554640"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.555340"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.555981"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.556718"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.557392"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.558039"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.558652"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.559275"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.559982"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.560613"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.561230"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.561838"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.562581"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.563218"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.563827"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.564436"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.565109"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.565743"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.566472"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.567129"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.567798"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.568470"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.569199"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.569869"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.570691"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.571337"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.572037"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.572748"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.573577"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.574301"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.574975"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.575761"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.576466"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.577131"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.577762"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.578424"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.579154"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.579778"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.580407"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.581075"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.581851"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.582525"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.583161"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.583884"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.584553"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.585284"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.585921"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.586539"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.587239"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.588033"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.588648"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.589351"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.590009"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.590662"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.591282"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.592176"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.594553"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.595424"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.596104"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.596823"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.597495"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.598260"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.598922"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.599599"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.600250"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.600886"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.601573"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.602244"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.602938"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.603746"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.604379"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.605097"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.605793"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.606422"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.607023"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.607646"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.608377"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.609023"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.609659"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.610282"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.611075"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.611783"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.612413"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.613141"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.613908"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.614739"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.615417"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.616026"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.616607"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.617215"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.617956"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.618639"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.619265"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.620408"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.621136"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.621791"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.622436"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.623025"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.623685"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.624345"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.624953"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3307' (111)\"}", "time": "2024-02-09T18:59:44.625741"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T19:03:41.761432"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:03:41.767770"}
+{"message": " * Running on http://192.168.32.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:03:41.768229"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:03:41.770647"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T19:03:46.926942"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:03:46.930883"}
+{"message": " * Debugger PIN: 567-457-607", "time": "2024-02-09T19:03:46.931580"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:03:57] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:03:57.127016"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'MigracionGCP', 'link': 'asssssssdas'}", "time": "2024-02-09T19:04:02.184997"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:04:02] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:04:02.185956"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:04:02] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:04:02.195997"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T19:04:03.230643"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:04:03] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:04:03.231640"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:04:03] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:04:03.242858"}
+{"message": "{'message': \"Error al crear la tabla: 2005 (HY000): Unknown MySQL server host 'dbdfgtyh' (-3)\"}", "time": "2024-02-09T19:04:36.470466"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:04:36.476510"}
+{"message": " * Running on http://192.168.32.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:04:36.476893"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:04:36.479301"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'usuarui'@'192.168.32.3' (using password: YES)\"}", "time": "2024-02-09T19:04:57.755789"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:04:57.761987"}
+{"message": " * Running on http://192.168.32.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:04:57.762593"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:04:57.765088"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'usuarui'@'192.168.32.3' (using password: YES)\"}", "time": "2024-02-09T19:05:02.893750"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:05:02.898047"}
+{"message": " * Debugger PIN: 834-730-377", "time": "2024-02-09T19:05:02.898861"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarui'@'192.168.32.3' (using password: YES)\"}", "time": "2024-02-09T19:05:02.911489"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:05:02] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:05:02.916005"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1045 (28000): Access denied for user 'usuarui'@'192.168.32.3' (using password: YES)\"}", "time": "2024-02-09T19:05:07.521867"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:05:07] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:05:07.522665"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarui'@'192.168.32.3' (using password: YES)\"}", "time": "2024-02-09T19:05:07.531851"}
+{"message": "192.168.32.1 - - [09/Feb/2024 19:05:07] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:05:07.532713"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T19:06:15.922551"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:06:15.928539"}
+{"message": " * Running on http://192.168.48.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:06:15.928889"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:06:15.931179"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'usuarui'@'192.168.48.3' (using password: YES)\"}", "time": "2024-02-09T19:06:21.066432"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:06:21.070140"}
+{"message": " * Debugger PIN: 473-790-501", "time": "2024-02-09T19:06:21.070940"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarui'@'192.168.48.3' (using password: YES)\"}", "time": "2024-02-09T19:06:46.182985"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:06:46] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:06:46.187333"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1045 (28000): Access denied for user 'usuarui'@'192.168.48.3' (using password: YES)\"}", "time": "2024-02-09T19:06:50.483639"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:06:50] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:06:50.484435"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarui'@'192.168.48.3' (using password: YES)\"}", "time": "2024-02-09T19:06:50.492815"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:06:50] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:06:50.493524"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'root'@'192.168.48.2' (using password: YES)\"}", "time": "2024-02-09T19:07:15.569856"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:07:15.575753"}
+{"message": " * Running on http://192.168.48.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:07:15.576414"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:07:15.578972"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'root'@'192.168.48.2' (using password: YES)\"}", "time": "2024-02-09T19:07:20.704269"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:07:20.709425"}
+{"message": " * Debugger PIN: 415-403-762", "time": "2024-02-09T19:07:20.710092"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'root'@'192.168.48.2' (using password: YES)\"}", "time": "2024-02-09T19:08:36.037567"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:08:36] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:08:36.042050"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1045 (28000): Access denied for user 'root'@'192.168.48.2' (using password: YES)\"}", "time": "2024-02-09T19:08:40.044340"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:08:40] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:08:40.045132"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'root'@'192.168.48.2' (using password: YES)\"}", "time": "2024-02-09T19:08:40.054538"}
+{"message": "192.168.48.1 - - [09/Feb/2024 19:08:40] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:08:40.055247"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T19:09:48.034347"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:09:48.040849"}
+{"message": " * Running on http://192.168.80.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:09:48.041307"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:09:48.043920"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T19:09:53.206360"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:09:53.210451"}
+{"message": " * Debugger PIN: 141-219-615", "time": "2024-02-09T19:09:53.211236"}
+{"message": "192.168.80.1 - - [09/Feb/2024 19:10:05] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:10:05.232361"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T19:10:08.765187"}
+{"message": "192.168.80.1 - - [09/Feb/2024 19:10:08] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:10:08.766453"}
+{"message": "192.168.80.1 - - [09/Feb/2024 19:10:08] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:10:08.777884"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T19:10:15.525276"}
+{"message": "192.168.80.1 - - [09/Feb/2024 19:10:15] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:10:15.526237"}
+{"message": "192.168.80.1 - - [09/Feb/2024 19:10:15] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:10:15.536116"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T19:11:14.974933"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:11:14.981009"}
+{"message": " * Running on http://192.168.96.3:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:11:14.981441"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:11:14.983856"}
+{"message": "{'message': \"Error al crear la tabla: 1045 (28000): Access denied for user 'usuarioo'@'192.168.96.3' (using password: YES)\"}", "time": "2024-02-09T19:11:20.121148"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:11:20.125042"}
+{"message": " * Debugger PIN: 854-890-753", "time": "2024-02-09T19:11:20.125773"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarioo'@'192.168.96.3' (using password: YES)\"}", "time": "2024-02-09T19:12:23.404200"}
+{"message": "192.168.96.1 - - [09/Feb/2024 19:12:23] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:12:23.408740"}
+{"message": "{'message': \"Error al agregar pr\u00e1ctica: 1045 (28000): Access denied for user 'usuarioo'@'192.168.96.3' (using password: YES)\"}", "time": "2024-02-09T19:12:30.326129"}
+{"message": "192.168.96.1 - - [09/Feb/2024 19:12:30] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:12:30.326975"}
+{"message": "{'message': \"Error al obtener pr\u00e1cticas: 1045 (28000): Access denied for user 'usuarioo'@'192.168.96.3' (using password: YES)\"}", "time": "2024-02-09T19:12:30.335861"}
+{"message": "192.168.96.1 - - [09/Feb/2024 19:12:30] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:12:30.336639"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T19:14:58.436815"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T19:14:58.443155"}
+{"message": " * Running on http://192.168.112.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T19:14:58.443624"}
+{"message": " * Restarting with stat", "time": "2024-02-09T19:14:58.446524"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T19:15:03.614635"}
+{"message": " * Debugger is active!", "time": "2024-02-09T19:15:03.618876"}
+{"message": " * Debugger PIN: 483-930-433", "time": "2024-02-09T19:15:03.619734"}
+{"message": "192.168.112.1 - - [09/Feb/2024 19:20:48] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:20:48.794573"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi', 'correo': 'sergi@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'asssssssdas'}", "time": "2024-02-09T19:20:52.177776"}
+{"message": "192.168.112.1 - - [09/Feb/2024 19:20:52] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:20:52.178759"}
+{"message": "192.168.112.1 - - [09/Feb/2024 19:20:52] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:20:52.189028"}
+{"message": "{'message': 'Pr\u00e1ctica eliminada correctamente', 'id': 1}", "time": "2024-02-09T19:20:53.328985"}
+{"message": "192.168.112.1 - - [09/Feb/2024 19:20:53] \"\u001b[32mPOST /eliminar/1 HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T19:20:53.329881"}
+{"message": "192.168.112.1 - - [09/Feb/2024 19:20:53] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T19:20:53.339377"}
+{"message": "{'message': \"Error al crear la tabla: 2003 (HY000): Can't connect to MySQL server on 'db:3306' (111)\"}", "time": "2024-02-09T20:39:29.794501"}
+{"message": " * Running on all addresses.\n   WARNING: This is a development server. Do not use it in a production deployment.", "time": "2024-02-09T20:39:29.801332"}
+{"message": " * Running on http://192.168.160.2:8080/ (Press CTRL+C to quit)", "time": "2024-02-09T20:39:29.801741"}
+{"message": " * Restarting with stat", "time": "2024-02-09T20:39:29.804602"}
+{"message": "Tabla creada correctamente", "time": "2024-02-09T20:39:34.973754"}
+{"message": " * Debugger is active!", "time": "2024-02-09T20:39:34.977983"}
+{"message": " * Debugger PIN: 130-863-213", "time": "2024-02-09T20:39:34.978771"}
+{"message": "192.168.160.1 - - [09/Feb/2024 20:39:35] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T20:39:35.002069"}
+{"message": "192.168.160.1 - - [09/Feb/2024 20:39:36] \"\u001b[33mGET /favicon.ico HTTP/1.1\u001b[0m\" 404 -", "time": "2024-02-09T20:39:36.386373"}
+{"message": "192.168.160.1 - - [09/Feb/2024 20:39:38] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T20:39:38.623007"}
+{"message": "{'message': 'Pr\u00e1ctica agregada correctamente', 'nombre': 'Sergi Castillo', 'correo': 'sergicastin@gmail.com', 'categoria': 'ContenedoresDocker', 'link': 'https://github.com/KeepCodingCloudDevops9/docker-sergi'}", "time": "2024-02-09T20:40:02.483163"}
+{"message": "192.168.160.1 - - [09/Feb/2024 20:40:02] \"\u001b[32mPOST /agregar HTTP/1.1\u001b[0m\" 302 -", "time": "2024-02-09T20:40:02.484057"}
+{"message": "192.168.160.1 - - [09/Feb/2024 20:40:02] \"GET / HTTP/1.1\" 200 -", "time": "2024-02-09T20:40:02.494058"}
